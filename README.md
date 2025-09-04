@@ -6,7 +6,7 @@ Ce projet consiste à réalise la refonte front-end du site Kasa, une plateforme
 L’objectif principal était de développer une application React fonctionnelle et responsive, en suivant les maquettes Figma et les consignes de la CTO et du designer.
 
 
-👉 [Lien vers le site web Booki]([https://azorophelie.github.io/Booki/](https://azorophelie.github.io/Kasa/))
+👉 [Lien vers le site Kasa](https://azorophelie.github.io/Kasa/)
 
 🚀 *Ce site a été déployé avec GitHub Pages.*
 
