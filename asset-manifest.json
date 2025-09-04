@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/OpenClassrooms-Projet-5/static/css/main.ccfca777.css",
-    "main.js": "/OpenClassrooms-Projet-5/static/js/main.da63e6d7.js",
-    "static/js/453.9701a2b0.chunk.js": "/OpenClassrooms-Projet-5/static/js/453.9701a2b0.chunk.js",
-    "static/media/Banner_a_propos.png": "/OpenClassrooms-Projet-5/static/media/Banner_a_propos.388a325a41a4341c7ba0.png",
-    "static/media/Banner.png": "/OpenClassrooms-Projet-5/static/media/Banner.7b295fcb71808167cd75.png",
-    "index.html": "/OpenClassrooms-Projet-5/index.html",
-    "main.ccfca777.css.map": "/OpenClassrooms-Projet-5/static/css/main.ccfca777.css.map",
-    "main.da63e6d7.js.map": "/OpenClassrooms-Projet-5/static/js/main.da63e6d7.js.map",
-    "453.9701a2b0.chunk.js.map": "/OpenClassrooms-Projet-5/static/js/453.9701a2b0.chunk.js.map"
+    "main.css": "/Kasa/static/css/main.ccfca777.css",
+    "main.js": "/Kasa/static/js/main.79d203e6.js",
+    "static/js/453.9701a2b0.chunk.js": "/Kasa/static/js/453.9701a2b0.chunk.js",
+    "static/media/Banner_a_propos.png": "/Kasa/static/media/Banner_a_propos.388a325a41a4341c7ba0.png",
+    "static/media/Banner.png": "/Kasa/static/media/Banner.7b295fcb71808167cd75.png",
+    "index.html": "/Kasa/index.html",
+    "main.ccfca777.css.map": "/Kasa/static/css/main.ccfca777.css.map",
+    "main.79d203e6.js.map": "/Kasa/static/js/main.79d203e6.js.map",
+    "453.9701a2b0.chunk.js.map": "/Kasa/static/js/453.9701a2b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccfca777.css",
-    "static/js/main.da63e6d7.js"
+    "static/js/main.79d203e6.js"
   ]
 }
